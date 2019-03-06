@@ -1,0 +1,36 @@
+.admission{
+  .section_1{
+    padding: 20px 0;
+    text-align: center;
+    p{
+      padding: 0 30%;
+    }
+  }
+  .section_2{
+    padding: 30px 0;
+    background: #1B3C59;
+    h2{
+      color: white;
+      text-align: center;
+    }
+    label{
+      display: block;
+      color: white;
+      margin-top: 20px;
+    }
+    input, textarea{
+      width: 100%;
+      border: 0;
+      border-radius: 5px;
+      padding: 10px 5px;
+    }
+    button{
+      padding: 10px 15px;
+      margin-top: 20px;
+      border-radius: 5px;
+      background: orange;
+      border: 0;
+      color: white;
+    }
+  }
+}
